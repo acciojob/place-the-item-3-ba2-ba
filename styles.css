@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+.holder {
+	width: 100%;
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	
+	
+}
+#fbox1 {
+	height:100px;
+	width:100px;
+	background-color:green;
+	margin1px;
+}
+#fbox2 {
+	height:100px;
+	width:100px;
+	background-color:red;
+	margin1px;
+}
+#fbox3 {
+	height:100px;
+	width:100px;
+	background-color:blue;
+	margin1px;
+}
